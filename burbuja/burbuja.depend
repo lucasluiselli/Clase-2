@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523477545 source:c:\users\lucas\downloads\clase_4\clase_4\bin\factorial\burbuja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
